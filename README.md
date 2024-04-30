@@ -1,10 +1,12 @@
 # Preppin-Data-2023-Week-2-International-Bank-Account
 
-#### Link to Challenge
+![image](https://github.com/JP852/Preppin-Data-2023-Week-2-International-Bank-Account/assets/142391590/24389b2a-0042-4b7d-8584-57d057f2faed)
+
+## Link to Challenge
 
 https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html
 
-#### SQL Techniques Used
+## SQL Techniques Used
 
 - Table Joins
 - Case Statement
